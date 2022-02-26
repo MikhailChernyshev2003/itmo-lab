@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pavelchernyshev/Desktop/untitled4/main.cpp
+cstdio
+-
+string.h
+-
+program/WordCount.cpp
+/Users/pavelchernyshev/Desktop/untitled4/program/WordCount.cpp
+
+/Users/pavelchernyshev/Desktop/untitled4/program/WordCount.cpp
+cstdio
+-
+cctype
+-
+cstring
+-
+

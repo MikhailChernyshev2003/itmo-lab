@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pavelchernyshev/Desktop/untitled4/main.c
+stdio.h
+/Users/pavelchernyshev/Desktop/untitled4/stdio.h
+string.h
+/Users/pavelchernyshev/Desktop/untitled4/string.h
+program/WordCount.h
+/Users/pavelchernyshev/Desktop/untitled4/program/WordCount.h
+
+/Users/pavelchernyshev/Desktop/untitled4/program/WordCount.h
+
